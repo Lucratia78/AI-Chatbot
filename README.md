@@ -135,3 +135,9 @@ Deploy integration (e.g., embed code snippet)
 Bot deployed via Landbot
 
 Public access: https://landbot.online/v3/H-3060592-JNK3NQ4JAFLXN39K/index.html
+
+
+
+
+
+
